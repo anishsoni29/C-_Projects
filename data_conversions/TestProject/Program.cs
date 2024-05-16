@@ -1,19 +1,9 @@
-﻿string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+﻿int invoiceNumber = 1201;
+decimal productShares = 25.4568m;
+decimal subtotal = 2750.00m;
+decimal taxPercentage = .15825m;
+decimal total = 3185.19m;
 
 
-//firstly store the orderStream in a new array name that items, split it via the comma and sort it then.
-string[] items = orderStream.Split(',');
-
-Array.Sort(items);
-
-foreach (var item in items)
-{
-    if (item.Length == 4)
-    {
-        Console.WriteLine(item);
-    }
-    else
-    {
-        Console.WriteLine(item + "\t-Error");
-    }
-}
+//string interpolation -> using the curly brackets
+Console.WriteLine($"Shares : {productShares:N3} Product");
