@@ -1,0 +1,14 @@
+/Users/anishsoni/Desktop/anish/anishapp/bin/Debug/net8.0/anishapp
+/Users/anishsoni/Desktop/anish/anishapp/bin/Debug/net8.0/anishapp.deps.json
+/Users/anishsoni/Desktop/anish/anishapp/bin/Debug/net8.0/anishapp.runtimeconfig.json
+/Users/anishsoni/Desktop/anish/anishapp/bin/Debug/net8.0/anishapp.dll
+/Users/anishsoni/Desktop/anish/anishapp/bin/Debug/net8.0/anishapp.pdb
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.AssemblyInfo.cs
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.dll
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/refint/anishapp.dll
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.pdb
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/anishapp.genruntimeconfig.cache
+/Users/anishsoni/Desktop/anish/anishapp/obj/Debug/net8.0/ref/anishapp.dll

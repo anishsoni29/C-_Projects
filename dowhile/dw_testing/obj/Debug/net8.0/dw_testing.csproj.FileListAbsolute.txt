@@ -1,0 +1,14 @@
+/Users/anishsoni/Desktop/dowhile/dw_testing/bin/Debug/net8.0/dw_testing
+/Users/anishsoni/Desktop/dowhile/dw_testing/bin/Debug/net8.0/dw_testing.deps.json
+/Users/anishsoni/Desktop/dowhile/dw_testing/bin/Debug/net8.0/dw_testing.runtimeconfig.json
+/Users/anishsoni/Desktop/dowhile/dw_testing/bin/Debug/net8.0/dw_testing.dll
+/Users/anishsoni/Desktop/dowhile/dw_testing/bin/Debug/net8.0/dw_testing.pdb
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.AssemblyInfo.cs
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.dll
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/refint/dw_testing.dll
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.pdb
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/dw_testing.genruntimeconfig.cache
+/Users/anishsoni/Desktop/dowhile/dw_testing/obj/Debug/net8.0/ref/dw_testing.dll
