@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/bin/Debug/net8.0/TestProject
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/Debug/net8.0/ref/TestProject.dll

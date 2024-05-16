@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anishsoni/Desktop/data_conversions/TestProject/TestProject.csproj": {}
+    "/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "/Users/anishsoni/Desktop/data_conversions/TestProject/TestProject.csproj": {
+    "/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anishsoni/Desktop/data_conversions/TestProject/TestProject.csproj",
+        "projectUniqueName": "/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/Users/anishsoni/Desktop/data_conversions/TestProject/TestProject.csproj",
+        "projectPath": "/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/TestProject.csproj",
         "packagesPath": "/Users/anishsoni/.nuget/packages/",
-        "outputPath": "/Users/anishsoni/Desktop/data_conversions/TestProject/obj/",
+        "outputPath": "/Users/anishsoni/Desktop/Csharp_Projects/data_conversions/TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anishsoni/.nuget/NuGet/NuGet.Config"
