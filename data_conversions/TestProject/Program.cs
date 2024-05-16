@@ -1,20 +1,15 @@
-﻿string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+﻿string pangrams = "My name is Anish and I belong to India";
 
-decimal total = 0m;
-string message = "";
+string[] message = pangrams.Split(' ');
 
-foreach (string value in values)
+string[] newMessage = new string[message.Length];
+
+for (int i = 0; i < message.Length; i++)
 {
-    decimal number; //stores the TryParse out values;
-    if (decimal.TryParse(value, out number))
-    {
-        total += number;
-    }
-    else
-    {
-        message += value;
-    }
+    char[] letters = message[i].ToCharArray();
+    Array.Reverse(letters);
+    newMessage[i] = new string(letters);
 }
 
-Console.WriteLine($"Message: {message}");
-Console.WriteLine($"Total: {total}");
+string result = string.Join(" ", newMessage);
+Console.WriteLine(result);
