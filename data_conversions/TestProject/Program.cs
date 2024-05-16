@@ -1,15 +1,19 @@
-﻿string pangrams = "My name is Anish and I belong to India";
+﻿string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
 
-string[] message = pangrams.Split(' ');
 
-string[] newMessage = new string[message.Length];
+//firstly store the orderStream in a new array name that items, split it via the comma and sort it then.
+string[] items = orderStream.Split(',');
 
-for (int i = 0; i < message.Length; i++)
+Array.Sort(items);
+
+foreach (var item in items)
 {
-    char[] letters = message[i].ToCharArray();
-    Array.Reverse(letters);
-    newMessage[i] = new string(letters);
+    if (item.Length == 4)
+    {
+        Console.WriteLine(item);
+    }
+    else
+    {
+        Console.WriteLine(item + "\t-Error");
+    }
 }
-
-string result = string.Join(" ", newMessage);
-Console.WriteLine(result);
