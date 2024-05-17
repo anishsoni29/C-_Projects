@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/bin/Debug/net7.0/Starter
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/bin/Debug/net7.0/Starter.dll
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.dll
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/PROJECTS/ContosoDogs/Starter/obj/Debug/net7.0/ref/Starter.dll
