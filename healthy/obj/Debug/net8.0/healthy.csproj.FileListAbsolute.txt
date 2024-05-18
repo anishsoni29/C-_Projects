@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/bin/Debug/net8.0/healthy
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/bin/Debug/net8.0/healthy.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/bin/Debug/net8.0/healthy.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/bin/Debug/net8.0/healthy.dll
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/bin/Debug/net8.0/healthy.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.dll
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/refint/healthy.dll
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/healthy.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/healthy/obj/Debug/net8.0/ref/healthy.dll
