@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/bin/Debug/net8.0/RSVP_GuestS
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/bin/Debug/net8.0/RSVP_GuestS.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/bin/Debug/net8.0/RSVP_GuestS.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/bin/Debug/net8.0/RSVP_GuestS.dll
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/bin/Debug/net8.0/RSVP_GuestS.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.dll
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/refint/RSVP_GuestS.dll
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/RSVP_GuestS.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/RSVP_GuestS/obj/Debug/net8.0/ref/RSVP_GuestS.dll
