@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/bin/Debug/net8.0/coin_toss
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/bin/Debug/net8.0/coin_toss.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/bin/Debug/net8.0/coin_toss.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/bin/Debug/net8.0/coin_toss.dll
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/bin/Debug/net8.0/coin_toss.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.dll
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/refint/coin_toss.dll
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/coin_toss.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/coin_toss/obj/Debug/net8.0/ref/coin_toss.dll
