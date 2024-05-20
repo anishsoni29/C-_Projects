@@ -1,0 +1,15 @@
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/bin/Debug/net8.0/zoo_project
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/bin/Debug/net8.0/zoo_project.deps.json
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/bin/Debug/net8.0/zoo_project.runtimeconfig.json
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/bin/Debug/net8.0/zoo_project.dll
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/bin/Debug/net8.0/zoo_project.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.AssemblyInfoInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.AssemblyInfo.cs
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.csproj.CoreCompileInputs.cache
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.sourcelink.json
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.dll
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/refint/zoo_project.dll
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.pdb
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/zoo_project.genruntimeconfig.cache
+/Users/anishsoni/Desktop/Csharp_Projects/zoo_project/obj/Debug/net8.0/ref/zoo_project.dll
